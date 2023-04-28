@@ -1,0 +1,23 @@
+NOTE!!-----------------------------------The wallet needs a local server to run----------------------------------------------------!!NOTE
+
+Therefore, please copy wallet folder to the 'htdocs' (for XAMPP) or 'www' (for WampServer) folder.
+
+After that,
+
+Before using the wallet please set up the database.
+
+Step 1. : Login to MySQL database and create a database with name "wallet".
+Step 2. : Now import the 'wallet.sql' file available in database folder.
+Step 3. : The default created account is "username: rishabh@gmail.com password: libran123"
+
+You can signup for yourself too, and explore the wallet.
+
+Thank You
+
+
+Rishabh Shukla
+Roll Number: 1502111044
+Ambedkar Institute of Technology
+Shakarpur, Delhi-92
+
+Major Project, 2015 Batch.
